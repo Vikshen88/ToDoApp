@@ -1,0 +1,8 @@
+.done{
+    text-decoration: line-through solid rgb(68, 68, 68);
+}
+
+.important{
+    color: steelblue;
+    font-weight: bold;
+}
